@@ -1,1 +1,1 @@
-# faceit
+# FacePay
