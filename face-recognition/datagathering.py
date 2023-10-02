@@ -1,4 +1,5 @@
 import cv2
+//importing the cv2
 detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 cam= cv2.VideoCapture(0)
 
